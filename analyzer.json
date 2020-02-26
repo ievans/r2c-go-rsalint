@@ -1,0 +1,15 @@
+{
+  "analyzer_name": "dev/go-rsalint",
+  "author_name": "Isaac Evans",
+  "author_email": "ine@mit.edu",
+  "version": "0.0.1",
+  "spec_version": "1.2.0",
+  "dependencies": {
+    "public/source-code": "*"
+  },
+  "type": "commit",
+  "output": {
+    "type": "json"
+  },
+  "deterministic": true
+}
